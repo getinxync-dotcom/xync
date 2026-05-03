@@ -1,0 +1,30 @@
+{
+  "name": "xync-website",
+  "version": "1.0.0",
+  "description": "Ops & Growth Systems for Founder-Led Businesses - Single-page website with interactive assessment tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "dev": "npx http-server -p 8000 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/xync-website.git"
+  },
+  "keywords": [
+    "operations",
+    "business-systems",
+    "founder-led",
+    "assessment-tool",
+    "ops-clarity-index",
+    "static-website",
+    "single-page-application"
+  ],
+  "author": "Xync",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/xync-website/issues"
+  },
+  "homepage": "https://github.com/yourusername/xync-website#readme"
+}
